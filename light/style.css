@@ -1,4 +1,4 @@
-/*test file stuff*/
+/*test file stuff*/ 
 #bodd{
     background-color: black;
 }
@@ -12,6 +12,35 @@
     font-family: noto Sans;
 }
 
+/*actually uesed stuff*/
+.header{
+    padding: 1%;
+    background: #1abc9c;
+}
+#header1{
+    padding: 1%;
+}
 h1{
     text-align: center;
 }
+.body{
+    background: linear-gradient(rgb(113, 133, 175), skyblue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0px;
+}
+footer{
+    padding:25px;
+    background-color:#282d32;
+    margin-top: 100%;
+
+    text-align:center;
+    opacity:1;
+    margin-bottom:0;
+    color: gold;
+}
+
+#ppo1{
+    text-decoration: underline;
+}
+  
