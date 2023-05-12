@@ -15,16 +15,25 @@
 /*actually uesed stuff*/
 .header{
     padding: 1%;
-    background: #1abc9c;
+    background: #4c4d4c;
 }
 #header1{
     padding: 1%;
+}
+#hateThisLink{
+    text-align:center;
 }
 h1{
     text-align: center;
 }
 .body{
-    background: linear-gradient(rgb(113, 133, 175), skyblue);
+    background: linear-gradient(rgb(124, 126, 231), rgb(0, 140, 255));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0px;
+}
+.body101{
+    background: rgb(255, 255, 255);
     background-repeat: no-repeat;
     background-attachment: fixed;
     margin: 0px;
