@@ -1,4 +1,4 @@
-/*test file stuff*/ 
+/*test file stuff*/
 #bodd{
     background-color: black;
 }
@@ -10,9 +10,6 @@
     color: #00ff70;
     font-size: 24px;
     font-family: noto Sans;
-}
-#box1{
-    transform: translateX(50%);
 }
 #backBox1{
     transform: translateX(50%);
@@ -51,13 +48,21 @@
     padding: 1%;
     background: #4c4d4c;
 }
-#header1{
+#header1{ /*index.ln8*/
     padding: 1%;
-    width: 100%;
 }
-#a1{
+#headLinks{ /*index.ln9*/
+    display: block;
+}
+#link{
+    margin-right: 5%;
+}
+#div1{
+    display: block;
     text-align: center;
-    display:grid;
+}
+#div2{ /*blog.ln16*/
+    margin: 5%;
 }
 h1{
     text-align: center;
@@ -89,4 +94,3 @@ footer{
     text-decoration: underline;
     color: wheat
 }
-  
