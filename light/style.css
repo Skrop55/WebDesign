@@ -61,8 +61,12 @@
     display: block;
     text-align: center;
 }
-#div2{ /*blog.ln16*/
+.div2{ /*blog.ln17 & about.ln17*/
     margin: 5%;
+}
+#aboutImg { /*about.ln19*/
+    float: left;
+    margin-right: 1%;
 }
 h1{
     text-align: center;
@@ -90,7 +94,11 @@ footer{
     color: gold;
 }
 
-#ppo1{
+#ppo1{ /*blog.ln14*/
     text-decoration: underline;
-    color: wheat
+    color: white
+}
+.textP{ /*about.ln22 & blog.ln18*/
+    font-size: 20px;
+    line-height: 1.5;
 }
